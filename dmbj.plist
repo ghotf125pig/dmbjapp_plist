@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://119.254.209.160/app/ipa/dmbj_1.0.0.11517.ipa</string>
+                   <string>http://192.168.1.118/app/ea/ipa/dmbj_o.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://119.254.209.160/app/AppIcon.png</string>
+                   <string>http://192.168.1.118/app/AppIcon.png</string>
                </dict>
            </array>
            <key>metadata</key>
@@ -27,7 +27,7 @@
                <key>bundle-identifier</key>
                <string>com.hrgame.dmbj</string>
                <key>bundle-version</key>
-               <string>1.0.0.11517</string>
+               <string>1.0.0.13001</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
